@@ -1,0 +1,2 @@
+# HelloCoreMVCBegin
+Begin Core MVC
